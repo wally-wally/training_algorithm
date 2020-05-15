@@ -7,6 +7,7 @@
 | Date     | Site | Question                  | Link                                                         |
 | -------- | ---- | ------------------------- | ------------------------------------------------------------ |
 | 20.05.14 | SWEA | 2382.미생물 격리          | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/SWEA/2382.%EB%AF%B8%EC%83%9D%EB%AC%BC%20%EA%B2%A9%EB%A6%AC/2382.py" target="_blank">:link:</a> |
+| 20.05.15 | BOJ  | 1238.파티                 | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/BOJ/1238.파티/1238.py" target="_blank">:link:</a> |
 | -        | SWEA | 4014.활주로 건설          | :link: (준비중)                                              |
 | -        | SWEA | 5648.원자 소멸 시뮬레이션 | :link: (준비중)                                              |
 | -        | BOJ  | 15686.치킨 배달           | :link: (준비중)                                              |
