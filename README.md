@@ -12,7 +12,7 @@
 | 20.05.17 | BOJ  | 1916.최소비용 구하기      | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/BOJ/1916.최소비용구하기/1916.py" target="_blank">:link:</a> |
 | 20.05.18 | BOJ  | 16235.나무 재테크         | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/BOJ/16235.나무재테크/16235.py" target="_blank">:link:</a> |
 | 20.05.19 | BOJ  | 17837.새로운 게임 2       | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/BOJ/17837.새로운게임2/17837.py" target="_blank">:link:</a> |
-| -        | BOJ  | 17779.게리맨더링 2        | :link: (준비중)                                              |
+| 20.05.20 | BOJ  | 17779.게리맨더링 2        | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/BOJ/17779.게리맨더링2/17779.py" target="_blank">:link:</a> |
 | -        | SWEA | 4014.활주로 건설          | :link: (준비중)                                              |
 | -        | SWEA | 5648.원자 소멸 시뮬레이션 | :link: (준비중)                                              |
 | -        | BOJ  | 15686.치킨 배달           | :link: (준비중)                                              |
