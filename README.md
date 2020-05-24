@@ -15,6 +15,7 @@
 | 20.05.20 | BOJ  | 17779.게리맨더링 2        | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/BOJ/17779.게리맨더링2/17779.py" target="_blank">:link:</a> |
 | 20.05.21 | SWEA | 5644.무선 충전            | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/SWEA/5644.무선충전/5644.py" target="_blank">:link:</a> |
 | 20.05.23 | BOJ  | 17822.원판 돌리기         | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/BOJ/17822.원판돌리기/17822.py" target="_blank">:link:</a> |
+| 20.05.24 | BOJ  | 17140.이차원 배열과 연산  | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/BOJ/17140.이차원배열과연산/17140.py" target="_blank">:link:</a> |
 | -        | SWEA | 4014.활주로 건설          | :link: (준비중)                                              |
 | -        | SWEA | 5648.원자 소멸 시뮬레이션 | :link: (준비중)                                              |
 | -        | BOJ  | 15686.치킨 배달           | :link: (준비중)                                              |
