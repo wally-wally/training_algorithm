@@ -19,8 +19,9 @@
 | 20.05.28 | BOJ  | 2636.치즈                 | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/BOJ/2636.치즈/2636.py" target="_blank">:link:</a> |
 | 20.05.29 | BOJ  | 7569.토마토               | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/BOJ/7569.토마토/7569.py" target="_blank">:link:</a> |
 | 20.05.30 | BOJ  | 15686.치킨 배달           | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/BOJ/15686.치킨배달/15686.py" target="_blank">:link:</a> |
+| 20.05.31 | BOJ  | 2573.빙산                 | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/BOJ/2573.빙산/2573.py" target="_blank">:link:</a> |
+| 20.05.31 | BOJ  | 17143.낚시왕              | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/BOJ/17143.낚시왕/17143.py" target="_blank">:link:</a> |
 | -        | SWEA | 4014.활주로 건설          | :link: (준비중)                                              |
 | -        | SWEA | 5648.원자 소멸 시뮬레이션 | :link: (준비중)                                              |
-| -        | BOJ  | 17143.낚시왕              | :link: (준비중)                                              |
 | -        | BOJ  | 14500.테트로미노          | :link: (준비중)                                              |
 | -        | -    | Coming Soon...            | -                                                            |
