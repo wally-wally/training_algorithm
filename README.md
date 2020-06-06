@@ -21,4 +21,7 @@
 | 20.05.31 | BOJ  | 2573.빙산                | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/BOJ/2573.빙산/2573.py" target="_blank">:link:</a> |
 | 20.05.31 | BOJ  | 17143.낚시왕             | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/BOJ/17143.낚시왕/17143.py" target="_blank">:link:</a> |
 | 20.06.02 | BOJ  | 17141.연구소 2           | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/BOJ/17141.연구소2/17141.py" target="_blank">:link:</a> |
+| 20.06.06 | SWEA | 4014.활주로 건설         | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/SWEA/4014.활주로건설/4014.py" target="_blank">:link:</a> |
+| 20.06.06 | SWEA | 1249.보급로              | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/SWEA/1249.보급로/1249.py" target="_blank">:link:</a> |
+| 20.06.06 | SWEA | 2112.보호 필름           | <a href="https://github.com/wally-wally/training_algorithm/blob/master/algorithm/SWEA/2112.보호필름/2112.py" target="_blank">:link:</a> |
 
